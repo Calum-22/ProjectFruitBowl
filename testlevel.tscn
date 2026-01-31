@@ -40,7 +40,3 @@ texture = ExtResource("1_w3snd")
 
 [node name="TestCharacter" parent="." unique_id=2036381043 instance=ExtResource("2_pi5jr")]
 position = Vector2(532, 428)
-scale = Vector2(0.06, 0.06)
-
-[node name="Camera2D" type="Camera2D" parent="." unique_id=435122803]
-position = Vector2(521, 413)
